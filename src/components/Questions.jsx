@@ -1,9 +1,5 @@
 const questions = [
-  {
-    question: 'whats your name?',
-    options: ['Chibuike', 'Ebuka', 'Peter', 'John'],
-    answer: 'Chibuike',
-  },
+ 
   
   {
     question: 'What is the capital of France?',
@@ -80,11 +76,10 @@ const questions = [
     options: ['Venus', 'Mars', 'Jupiter', 'Mercury'],
     answer: 'Mars',
   },
-  // Fun questions below
   {
     question: 'If you could have any superpower, which would you choose?',
     options: ['Invisibility', 'Flying', 'Time Travel', 'Super Strength'],
-    answer: 'Flying', // subjective, just for fun
+    answer: 'Flying', 
   },
   {
     question: 'Which animal is known for laughing when tickled?',
@@ -130,7 +125,17 @@ const questions = [
     question: 'Which animal can’t jump?',
     options: ['Elephant', 'Frog', 'Kangaroo', 'Rabbit'],
     answer: 'Elephant',
-  }
+  },
+  {
+    question: 'what is not among the seven wonders of the world?',
+    options: ['Great Wall of China', 'Taj Mahal', 'Machu Picchu', 'Colosseum'],
+    answer: 'Machu Picchu',
+  },
+ 
+  
+  
+  
+
 ];
 
 export default questions; 
