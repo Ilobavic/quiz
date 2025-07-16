@@ -1,5 +1,11 @@
 const questions = [
   {
+    question: 'whats your name?',
+    options: ['Chibuike', 'Ebuka', 'Peter', 'John'],
+    answer: 'Chibuike',
+  },
+  
+  {
     question: 'What is the capital of France?',
     options: ['Paris', 'London', 'Berlin', 'Madrid'],
     answer: 'Paris',
